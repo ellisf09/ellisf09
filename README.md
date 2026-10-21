@@ -25,11 +25,11 @@
 ### 📂 Projects
 > <a href="https://github.com/ellisf09/Memriser">Memriser</a>
   - A bot to autocomplete Memrise tasks.
-  - **Tech: **Python, JavaScript, Selenium
+  - <b>Tech: </b>Python, JavaScript, Selenium
 
 > <a href="https://discord.gg/tierprac">Tier Practice</a>
   - A Minecraft server which has reached 70+ players, requiring a large amount of optimisation.
-  - **Tech: **Skript, Java, SQL, Bash
+  - <b>Tech: </b>Skript, Java, SQL, Bash
 
 ---
 
