@@ -1,4 +1,4 @@
-<img width="4032" height="549" alt="image" src="https://github.com/user-attachments/assets/4a7223f5-b1f2-4bcb-ae6c-142052b308e5" /><img width="4032" height="549" alt="image" src="https://github.com/user-attachments/assets/da8f48f7-f3b7-4a33-a0ee-1115e6b4fa37" />## Ellis
+## Ellis
 **Backend Developer** specialising in Minecraft development and python tools, yet curious about the world of linux and cybersecurity.
 
 <p align="center">
