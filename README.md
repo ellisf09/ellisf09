@@ -1,5 +1,5 @@
 ## Ellis
-<h1 align="center">Backend Developer</h1>
+## Backend Developer
 <p align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
