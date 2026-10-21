@@ -46,11 +46,10 @@
 </p>
 
 ---
-### Contact Me
+### 📬 Contact Me
 
 <p align="center">
-  <a href="https://discord.com/users/your-user-id">
-    <img src="https://skillicons.dev/icons?i=discord" height="25">
-  </a>
-  <strong>Discord:</strong> forforreal
+  <img src="https://skillicons.dev/icons?i=discord" height="25">
+  <br>
+  <b>forforreal</b>
 </p>
