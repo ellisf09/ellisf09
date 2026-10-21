@@ -26,11 +26,13 @@
 > <a href="https://github.com/ellisf09/Memriser">Memriser</a>
   - A bot to autocomplete Memrise tasks.
   - <b>Tech: </b>Python, JavaScript, Selenium
+  - <b>Skills: </b>Bypassing, DOM, CLI usage, Caching
 
 > <a href="https://discord.gg/tierprac">Tier Practice</a>
   - A Minecraft server which has reached 70+ players, requiring a large amount of optimisation.
   - <b>Tech: </b>Skript, Java, SQL, Bash
-
+  - <b>Skills: </b>Database Management, Server and Code Optimisation, PaperMC Source Development, Player & Staff Management, Scalable Backends, Large Codebase Maintenance
+<!-- Database Management, Server Optimisation, PaperMC Source Development, Player & Staff Management, Scalable Backend Systems, Large Codebase Maintenance-->
 ---
 
 ### 📊 GitHub Stats
