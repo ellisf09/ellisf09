@@ -28,7 +28,8 @@
 
 ### 📂 Projects
 > <a href="https://github.com/ellisf09/Memriser">Memriser</a>
-. <a href="https://discord.gg/tierprac">Tier Practice</a>
+
+> <a href="https://discord.gg/tierprac">Tier Practice</a>
 
 ---
 
