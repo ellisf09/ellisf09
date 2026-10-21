@@ -6,11 +6,3 @@
 </p>
 
 ---
-
-### 🛠 Tech Stack
-```text
-Backend:   Python, Node.js, Java
-Frontend:  Minimal JS/TS
-Database:  PostgreSQL, MySQL, SQLite
-Tools:     Bash, Git
-Other:     Skript
