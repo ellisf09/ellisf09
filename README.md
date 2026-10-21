@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/your-user-id">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="20" height="20">
+    <img src="https://skillicons.dev/icons?i=discord" height="25">
   </a>
   <strong>Discord:</strong> forforreal
 </p>
