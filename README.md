@@ -25,7 +25,6 @@
 ### 📂 Projects
 > <a href="https://github.com/ellisf09/Memriser">Memriser</a>
   - A bot to autocomplete Memrise tasks, requiring python skills and knowledge of the DOM and JS.
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ellisf09&repo=Memriser)](https://github.com/ellisf09/Memriser)
 
 > <a href="https://discord.gg/tierprac">Tier Practice</a>
   - A Minecraft server which has reached 70+ players, requiring a large amount of optimisation and coding knowledge.
