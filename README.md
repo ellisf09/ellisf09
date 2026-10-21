@@ -1,5 +1,6 @@
 ## Ellis
 **Backend Developer** specialising in Minecraft development and python tools, yet curious about the world of linux and cybersecurity.
+
 <p align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
