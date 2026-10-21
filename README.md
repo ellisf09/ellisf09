@@ -19,7 +19,7 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <!-- Skript -->
-  <img src="https://raw.githubusercontent.com/SkriptLang/skript-logo/master/skript-logo.svg" alt="Skript" width="40" height="40"/>
+  <img src="https://github.com/SkriptLang.png?size=40" alt="Skript" width="40" height="40"/>
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
