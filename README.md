@@ -26,7 +26,9 @@
 > <a href="https://github.com/ellisf09/Memriser">Memriser</a>
   - A bot to autocomplete Memrise tasks.
   - <b>Tech: </b>Python, JavaScript, Selenium
-  - <b>Skills: </b>Bypassing, DOM, CLI usage, Caching
+  - <b>Skills: </b>Browser Automation, DOM Inspection, CLI Development, Translation Caching, Data Processing, Web Scraping, Browser interaction
+  - <!-- Skills: Browser Automation, DOM Analysis, Selenium, CLI Development, Translation Caching, Data Processing, Web Scraping, Python Tooling-->
+  - <!--Skills: Selenium Automation, DOM Inspection, CLI Application Development, Caching Systems, Data Normalisation, Answer Matching Algorithms, Browser Interaction-->
 
 > <a href="https://discord.gg/tierprac">Tier Practice</a>
   - A Minecraft server which has reached 70+ players, requiring a large amount of optimisation.
