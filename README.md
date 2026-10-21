@@ -1,4 +1,4 @@
-## Ellis
+<img width="4032" height="549" alt="image" src="https://github.com/user-attachments/assets/4a7223f5-b1f2-4bcb-ae6c-142052b308e5" /><img width="4032" height="549" alt="image" src="https://github.com/user-attachments/assets/da8f48f7-f3b7-4a33-a0ee-1115e6b4fa37" />## Ellis
 **Backend Developer** specialising in Minecraft development and python tools, yet curious about the world of linux and cybersecurity.
 
 <p align="center">
@@ -24,14 +24,14 @@
 
 ### 📂 Projects
 > <a href="https://github.com/ellisf09/Memriser">Memriser</a>
-  - A bot to autocomplete Memrise tasks.
+  - A browser automation tool that intelligently completes Memrise speed reviews using translation APIs, answer caching and DOM analysis.
   - <b>Tech: </b>Python, JavaScript, Selenium
-  - <b>Skills: </b>Browser Automation, DOM Inspection, CLI Development, Translation Caching, Data Processing, Web Scraping, Browser interaction
-  - <!-- Skills: Browser Automation, DOM Analysis, Selenium, CLI Development, Translation Caching, Data Processing, Web Scraping, Python Tooling-->
-  - <!--Skills: Selenium Automation, DOM Inspection, CLI Application Development, Caching Systems, Data Normalisation, Answer Matching Algorithms, Browser Interaction-->
+  - <b>Skills:</b> Browser Automation, Selenium Development, DOM Analysis, Answer Caching, Translation APIs, Data Processing, Fuzzy Matching Algorithms
+<!-- Skills: Browser Automation, DOM Analysis, Selenium, CLI Development, Translation Caching, Data Processing, Web Scraping, Python Tooling-->
+<!--Skills: Selenium Automation, DOM Inspection, CLI Application Development, Caching Systems, Data Normalisation, Answer Matching Algorithms, Browser Interaction-->
 
 > <a href="https://discord.gg/tierprac">Tier Practice</a>
-  - A Minecraft server which has reached 70+ players, requiring a large amount of optimisation.
+  - A competitive Minecraft practice server that has supported 70+ concurrent players, requiring extensive optimisation, custom backend systems and infrastructure management.
   - <b>Tech: </b>Skript, Java, SQL, Bash
   - <b>Skills: </b>Database Management, Server and Code Optimisation, PaperMC Source Development, Player & Staff Management, Scalable Backends, Large Codebase Maintenance
 <!-- Database Management, Server Optimisation, PaperMC Source Development, Player & Staff Management, Scalable Backend Systems, Large Codebase Maintenance-->
@@ -46,3 +46,6 @@
 </p>
 
 ---
+### Contact Me
+
+- <img src="https://raw.githubusercontent.com/Eejit43/discord-icons/f5ad044a33cfae2b8e1df25cef849fda9b1c8f68/assets/svgs/from-discord/owner-crown.svg"> Discord: forforreal
