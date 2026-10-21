@@ -51,5 +51,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=discord" height="25">
   <br>
-  <pre><code>forforreal</code><pre>
+  <code>forforreal</code>
 </p>
