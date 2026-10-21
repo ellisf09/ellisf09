@@ -48,4 +48,9 @@
 ---
 ### Contact Me
 
-- <img src="https://raw.githubusercontent.com/Eejit43/discord-icons/f5ad044a33cfae2b8e1df25cef849fda9b1c8f68/assets/svgs/from-discord/owner-crown.svg"> Discord: forforreal
+<p align="center">
+  <a href="https://discord.com/users/your-user-id">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="20" height="20">
+  </a>
+  <strong>Discord:</strong> forforreal
+</p>
