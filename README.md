@@ -26,8 +26,8 @@
 
 ---
 
-### 📂 Minimal Philosophy
-> Backend-focused, clean code, no unnecessary noise.
+### 📂 Projects
+> (https://github.com/ellisf09/Memriser)[Memriser]
 
 ---
 
