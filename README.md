@@ -1,7 +1,6 @@
 ## Ellis
 <h1 align="center">Backend Developer</h1>
 
-
 ### 🛠 Tech Stack
 
 <p align="center">
