@@ -1,6 +1,8 @@
 ## Ellis
 <h1 align="center">Backend Developer</h1>
+
 ---
+
 ### 🛠 Tech Stack
 
 <p align="center">
@@ -37,7 +39,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>Minimal. Dark. Backend.</i>
-</p>
