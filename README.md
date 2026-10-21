@@ -1,7 +1,6 @@
 ## Ellis
 <h1 align="center">Backend Developer</h1>
 
----
 
 ### 🛠 Tech Stack
 
@@ -28,8 +27,10 @@
 
 ### 📂 Projects
 > <a href="https://github.com/ellisf09/Memriser">Memriser</a>
+  - A bot to autocomplete Memrise tasks, requiring python skills and knowledge of the DOM and JS.
 
 > <a href="https://discord.gg/tierprac">Tier Practice</a>
+  - A Minecraft server which has reached 70+ players, requiring a large amount of optimisation and coding knowledge.
 
 ---
 
