@@ -1,5 +1,5 @@
 ## Ellis
-**Backend Developer** specialising in Minecraft development and python tools, yet curious about the world of linux and cybersecurity.
+**Backend Developer** specialising in Minecraft development and Python tools, yet curious about the world of linux and cybersecurity.
 
 <p align="center"> 
   <!-- Python --> 
