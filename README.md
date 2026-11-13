@@ -12,7 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
   <!-- Java --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://tse4.mm.bing.net/th/id/OIP.Ow4SxDlUw-GbwAzROkOrtAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Java" width="40" height="40"/> 
   <!-- SQL --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> 
   <!-- Bash --> 
