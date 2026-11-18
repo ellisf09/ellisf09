@@ -1,4 +1,4 @@
-# Ellis
+# Hi, I'm Ellis
 
 **Backend Developer** specialising in Minecraft development and Python tools, with a growing curiosity for Linux and cybersecurity.
 
