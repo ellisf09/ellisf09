@@ -9,7 +9,7 @@ For example, my Memriser tool in Python allowed me to free up more time for codi
 With this, I had to explore the world of HTML and JS so I could hook into different elements, expanding my knowledge whilst solving a problem that no one else could solve. 
 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,mysql,bash,git,docker,html,css,vscode"/>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,mysql,bash,git,docker,html,css,linux,kali,vscode"/>
 </p>
 
 ---
