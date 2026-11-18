@@ -28,7 +28,7 @@ With this, I had to explore the world of HTML and JS so I could hook into differ
   <!-- Skript -->
   <img src="https://github.com/SkriptLang.png?size=40" alt="Skript" width="40" height="40"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://shields.io" alt="Python"/>
   <img src="https://shields.io" alt="JavaScript"/>
   <img src="https://shields.io" alt="TypeScript"/>
@@ -37,7 +37,7 @@ With this, I had to explore the world of HTML and JS so I could hook into differ
   <img src="https://shields.io" alt="Bash"/>
   <img src="https://shields.io" alt="Git"/>
   <img src="https://shields.io" alt="Skript"/>
-</p>
+</p> -->
 ---
 
 ## 📂 Projects
