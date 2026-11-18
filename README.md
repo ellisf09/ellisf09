@@ -8,9 +8,6 @@ I find myself constantly annoyed by the lack of tools available to me, so I buil
 For example, my Memriser tool in Python allowed me to free up more time for coding as it rapidly goes through its knowledgebase to automatically complete tasks for me. 
 With this, I had to explore the world of HTML and JS so I could hook into different elements, expanding my knowledge whilst solving a problem that no one else could solve. 
 -->
-
-### 🛠️ Tech Stack
-
 <p align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
