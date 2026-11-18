@@ -11,6 +11,7 @@ With this, I had to explore the world of HTML and JS so I could hook into differ
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,java,mysql,bash,git,docker,html,css,vscode,"/>
 </p>
+
 ---
 
 ## 📂 Projects
