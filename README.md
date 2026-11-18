@@ -17,9 +17,9 @@ With this, I had to explore the world of HTML and JS so I could hook into differ
 ## 📂 Projects
 
 ### [Tier Practice](https://discord.gg/tierprac)
-A competitive Minecraft practice server that has supported 70+ concurrent players, requiring extensive optimisation, custom backend systems, and infrastructure management.
+My own competitive Minecraft practice server that has supported 70+ concurrent players, requiring extensive optimisation, custom backend systems, and infrastructure management.
 - **Tech:** Skript, Java, SQL, Bash
-- **Skills:** Database Management, Server and Code Optimisation, PaperMC Source Development, Player & Staff Management, Scalable Backends, Large Codebase Maintenance
+- **Skills:** Database Management, Server and Code Optimisation, PaperMC Source Development, Player & Staff Management, Scalable Backends, Large Codebase Maintenance, Handling Large Quantities of Data
 
 ### [Memriser](https://github.com/ellisf09/Memriser)
 A browser automation tool that intelligently completes Memrise speed reviews using translation APIs, answer caching, and DOM analysis.
