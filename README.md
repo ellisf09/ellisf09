@@ -1,6 +1,8 @@
 ## Ellis
 **Backend Developer** specialising in Minecraft development and Python tools, yet curious about the world of linux and cybersecurity.
-
+<!--
+Backend Developer specialising in Minecraft development and Python tools, yet curious about the world of linux and cybersecurity. I find myself constantly annoyed by the lack of tools available to me, so i built them myself, learning multiple programming languages along the way. For example, my Memriser tool in python allowed me to free up more time for coding as it rapidly goes through it's knowledgebase to automatically complete tasks for me. With this, i had to explore the world of HTML and JS so i could hook into different elements, expanding my knowledge whilst solving a problem that noone else could solve.
+-->
 <p align="center"> 
   <!-- Python --> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
