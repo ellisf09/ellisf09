@@ -37,7 +37,7 @@ Database Management, Server Optimisation, PaperMC Source Development, Player & S
 ## 🎓 Education
 
 ### General Education
-- **A-Levels:** Currently studying Mathematics, Further Mathematics, Computer Science, and Physics at a prestigious college.
+- **A-Levels:** Currently studying Mathematics, Further Mathematics, Computer Science, and Physics at a sixth form college.
 - **Competitions:** Sat the [UK Bebras](https://www.bebras.uk/) challenge *(Result: TBD)*.
 - **GCSEs:** Achieved `98888877766` *(~3.8 US GPA / 7.5 UK GPA, including Grade 8s in Computer Science and Maths)*.
 
