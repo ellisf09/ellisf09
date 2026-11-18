@@ -43,11 +43,11 @@ Backend Developer specialising in Minecraft development and Python tools, yet cu
 ---
 
 ### 🎓 Education
-> General Education
+**General Education**
   - Currently taking A-Levels of Mathematics, Further Mathematics, Computer Science and Physics at a prestigious college.
   - Sat the [UK Bebras](https://www.bebras.uk/) challenge, achieving TBD.
   - Achieved 98888877766 in my GCSEs. _(~3.8 GPA American / 7.5 GPA UK, 8 in Computer Science, Maths)_
-> <a href="https://www.boot.dev/u/forfr">Boot.dev</a>
+**<a href="https://www.boot.dev/u/forfr">Boot.dev</a>**
   - Completed courses involving many aspects of backend development, with hands-on experience and projects. This can be seen on [my profile](https://www.boot.dev/u/forfr) where I worked on it during a 3-month free subscription.
   - <b>Skills: </b>Python, JavaScript, TypeScript, Bash, SQL, Git, Docker, Pandas, Power BI, OpenCode
   - <b>Projects: </b>
