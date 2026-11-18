@@ -51,7 +51,7 @@ Backend Developer specialising in Minecraft development and Python tools, yet cu
   - Completed courses involving many aspects of backend development, with hands-on experience and projects. This can be seen on [my profile](https://www.boot.dev/u/forfr) where I worked on it during a 3-month free subscription.
   - <b>Skills: </b>Python, JavaScript, TypeScript, Bash, SQL, Git, Docker, Pandas, Power BI, OpenCode
   - <b>Projects: </b>
-    Python: BookBot, [Asteroids](https://github.com/ellisf09/asteroids), [AI Agent](https://github.com/ellisf09/door-code), [Static Site Generator](https://github.com/ellisf09/static-site-generator), [Maze Solver](https://github.com/ellisf09/Maze-Solver), [Web Scraper](https://github.com/ellisf09/crawler), [Memriser (own project)](https://github.com/ellisf09/Memriser)
+    Python: BookBot, [Asteroids](https://github.com/ellisf09/asteroids), [AI Agent](https://github.com/ellisf09/door-code), [Static Site Generator](https://github.com/ellisf09/static-site-generator), [Maze Solver](https://github.com/ellisf09/Maze-Solver), [Web Scraper](https://github.com/ellisf09/crawler), [Memriser (own project)](https://github.com/ellisf09/Memriser) <br>
     TypeScript: [Blog Aggregator](https://github.com/ellisf09/tsblog), [Pokedex](https://github.com/ellisf09/TSDex)
     
 ### 📊 GitHub Stats
