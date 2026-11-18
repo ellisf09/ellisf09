@@ -9,6 +9,10 @@ For example, my Memriser tool in Python allowed me to free up more time for codi
 With this, I had to explore the world of HTML and JS so I could hook into different elements, expanding my knowledge whilst solving a problem that no one else could solve. 
 -->
 <p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,mysql,bash,git,)]
+</p>
+<p align="center">
+  
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <!-- Pandas -->
@@ -28,16 +32,6 @@ With this, I had to explore the world of HTML and JS so I could hook into differ
   <!-- Skript -->
   <img src="https://github.com/SkriptLang.png?size=40" alt="Skript" width="40" height="40"/>
 </p>
-<!-- <p align="center">
-  <img src="https://shields.io" alt="Python"/>
-  <img src="https://shields.io" alt="JavaScript"/>
-  <img src="https://shields.io" alt="TypeScript"/>
-  <img src="https://shields.io" alt="Java"/>
-  <img src="https://shields.io" alt="SQL"/>
-  <img src="https://shields.io" alt="Bash"/>
-  <img src="https://shields.io" alt="Git"/>
-  <img src="https://shields.io" alt="Skript"/>
-</p> -->
 ---
 
 ## 📂 Projects
