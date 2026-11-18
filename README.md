@@ -8,6 +8,7 @@ I find myself constantly annoyed by the lack of tools available to me, so I buil
 For example, my Memriser tool in Python allowed me to free up more time for coding as it rapidly goes through its knowledgebase to automatically complete tasks for me. 
 With this, I had to explore the world of HTML and JS so I could hook into different elements, expanding my knowledge whilst solving a problem that no one else could solve. 
 -->
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,mysql,linux,kali,bash,docker,git,vscode"/>
 </p>
@@ -19,7 +20,7 @@ With this, I had to explore the world of HTML and JS so I could hook into differ
 ### [Tier Practice](https://discord.gg/tierprac)
 My own competitive Minecraft practice server that has supported 80+ concurrent players at a consistent 20 TPS and low latency, requiring extensive optimisation, custom backend systems, and infrastructure management.
 - **Tech:** Skript, Java, SQL, Bash
-- **Skills:** Database Management, Server and Code Optimisation, PaperMC Source Development, Player & Staff Management, Handling Large Codebases
+- **Skills:** Database Management, Server & Code Optimisation, PaperMC Source Development, Player & Staff Management, Handling Large Codebases
 
 ### [Memriser](https://github.com/ellisf09/Memriser)
 A browser automation tool that intelligently completes Memrise speed reviews using translation APIs, answer caching, and DOM analysis.
@@ -44,7 +45,7 @@ Database Management, Server Optimisation, PaperMC Source Development, Player & S
 ### Boot.dev
 Completed backend development courses with hands-on projects during a 3-month subscription, reaching the top 0.7% of users. View progress on [my Boot.dev profile](https://www.boot.dev/u/forfr).
 - **Skills:** Python, JavaScript, TypeScript, Bash, SQL, Git, Docker, Pandas, Power BI, OpenCode
-- **Python Projects:** [Asteroids](https://github.com/ellisf09/asteroids), [AI Agent](https://github.com/ellisf09/door-code), [Static Site Generator](https://github.com/ellisf09/static-site-generator), [Maze Solver](https://github.com/ellisf09/Maze-Solver), [Web Scraper](https://github.com/ellisf09/crawler)
+- **Python Projects:** [AI Agent](https://github.com/ellisf09/door-code), [Static Site Generator](https://github.com/ellisf09/static-site-generator), [Maze Solver](https://github.com/ellisf09/Maze-Solver), [Web Scraper](https://github.com/ellisf09/crawler), [Asteroids](https://github.com/ellisf09/asteroids), 
 - **TypeScript Projects:** [Blog Aggregator](https://github.com/ellisf09/tsblog), [Pokedex](https://github.com/ellisf09/TSDex)
 
 ---
