@@ -44,7 +44,7 @@ Database Management, Server Optimisation, PaperMC Source Development, Player & S
 ### Boot.dev
 Completed backend development courses with hands-on projects during a 3-month subscription, reaching the top 0.7% of users. View progress on [my Boot.dev profile](https://www.boot.dev/u/forfr).
 - **Skills:** Python, JavaScript, TypeScript, Bash, SQL, Git, Docker, Pandas, Power BI, OpenCode
-- **Python Projects:** BookBot, [Asteroids](https://github.com/ellisf09/asteroids), [AI Agent](https://github.com/ellisf09/door-code), [Static Site Generator](https://github.com/ellisf09/static-site-generator), [Maze Solver](https://github.com/ellisf09/Maze-Solver), [Web Scraper](https://github.com/ellisf09/crawler), [Memriser *(Personal Project)*](https://github.com/ellisf09/Memriser)
+- **Python Projects:** BookBot, [Asteroids](https://github.com/ellisf09/asteroids), [AI Agent](https://github.com/ellisf09/door-code), [Static Site Generator](https://github.com/ellisf09/static-site-generator), [Maze Solver](https://github.com/ellisf09/Maze-Solver), [Web Scraper](https://github.com/ellisf09/crawler)
 - **TypeScript Projects:** [Blog Aggregator](https://github.com/ellisf09/tsblog), [Pokedex](https://github.com/ellisf09/TSDex)
 
 ---
