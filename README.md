@@ -64,25 +64,27 @@ Completed backend development courses with hands-on projects during a 3-month su
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://discord.com/users/">
+    <td align="center" style="padding-right: 20px;">
+      <a href="https://discord.com/users/your-id">
         <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord">
       </a>
     </td>
-    <td width="40"></td>
     <td align="center">
-      <a href="mailto:x@gmail.com">
+      <a href="mailto:personalrxpects@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://discord.com/users/forforreal"><code>forforreal</code></a>
+    <td align="center" style="padding-right: 20px;">
+      <a href="https://discord.com/users/your-id">
+        <code>forforreal</code>
+      </a>
     </td>
-    <!-- <td></td> -->
     <td align="center">
-      <a href="mailto:personalrxpects@gmail.com"><code>personalrxpects@gmail.com</code></a>
+      <a href="mailto:personalrxpects@gmail.com">
+        <code>personalrxpects@gmail.com</code>
+      </a>
     </td>
   </tr>
 </table>
