@@ -80,7 +80,7 @@ Completed backend development courses with hands-on projects during a 3-month su
     <td align="center">
       <a href="https://discord.com/users/forforreal"><code>forforreal</code></a>
     </td>
-    <td></td>
+    <!-- <td></td> -->
     <td align="center">
       <a href="mailto:personalrxpects@gmail.com"><code>personalrxpects@gmail.com</code></a>
     </td>
