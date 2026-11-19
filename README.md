@@ -63,7 +63,11 @@ Completed backend development courses with hands-on projects during a 3-month su
 ## 📬 Contact Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord" height="25" alt="Discord"/>
-  <br>
+  <img src="https://skillicons.dev/icons?i=discord" height="25" alt="Discord" />
   <code>forforreal</code>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:x@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="25" alt="Email" />
+  </a>
+  <code>personalrxpects@gmail.com</code>
 </p>
