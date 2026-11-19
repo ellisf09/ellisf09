@@ -48,16 +48,13 @@ Completed backend development courses with hands-on projects during a 3-month su
 - **Python Projects:** [AI Agent](https://github.com/ellisf09/door-code), [Static Site Generator](https://github.com/ellisf09/static-site-generator), [Maze Solver](https://github.com/ellisf09/Maze-Solver), [Web Scraper](https://github.com/ellisf09/crawler), [Asteroids](https://github.com/ellisf09/asteroids)
 - **TypeScript Projects:** [Blog Aggregator](https://github.com/ellisf09/tsblog), [Pokedex](https://github.com/ellisf09/TSDex)
 
----
+<!-- ## 📊 GitHub Stats-->
 
-## 📊 GitHub Stats
-
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ellisf09&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150"/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellisf09&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellisf09&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellisf09&theme=tokyonight" alt="GitHub Streak"/>
+</p> -->
 ---
 
 ## 📬 Contact Me
