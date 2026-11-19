@@ -43,7 +43,7 @@ Database Management, Server Optimisation, PaperMC Source Development, Player & S
 - **GCSEs:** Achieved `98888877766` *(~3.8 US GPA / 7.5 UK GPA, including Grade 8s in Computer Science and Maths)*.
 
 ### Boot.dev
-Completed backend development courses with hands-on projects during a 3-month subscription, reaching the top 0.7% of users. View progress on [my Boot.dev profile](https://www.boot.dev/u/forfr).
+Completed backend development courses with hands-on projects during a 3-month subscription, reaching the **top 0.7%** of users. View progress on [my Boot.dev profile](https://www.boot.dev/u/forfr).
 - **Skills:** Python, JavaScript, TypeScript, Bash, SQL, Git, Docker, Pandas, Power BI, OpenCode
 - **Python Projects:** [AI Agent](https://github.com/ellisf09/door-code), [Static Site Generator](https://github.com/ellisf09/static-site-generator), [Maze Solver](https://github.com/ellisf09/Maze-Solver), [Web Scraper](https://github.com/ellisf09/crawler), [Asteroids](https://github.com/ellisf09/asteroids), 
 - **TypeScript Projects:** [Blog Aggregator](https://github.com/ellisf09/tsblog), [Pokedex](https://github.com/ellisf09/TSDex)
