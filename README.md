@@ -40,7 +40,7 @@ Database Management, Server Optimisation, PaperMC Source Development, Player & S
 ### General Education
 - **A-Levels:** Currently studying Mathematics, Further Mathematics, Computer Science, and Physics at a sixth form college.
 - **Competitions:** Sat the [UK Bebras](https://www.bebras.uk/) challenge *(Result: TBD)*.
-- **GCSEs:** Achieved `98888877766` *(~3.8 US GPA / 7.5 UK GPA, including Grade 8s in Computer Science and Maths)*.
+- **GCSEs:** Achieved `98888877766` *(including Grade 8s in Computer Science and Maths)*.
 
 ### Boot.dev
 Completed backend development courses with hands-on projects during a 3-month subscription, reaching the **top 0.7%** of users. View progress on [my Boot.dev profile](https://www.boot.dev/u/forfr).
